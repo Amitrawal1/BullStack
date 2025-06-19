@@ -1,0 +1,30 @@
+.signup{
+    display: flex;
+    width: 100%;
+    padding: 5rem;
+
+}
+.titles h3{
+   font-size: 2.5rem;
+   margin-top: 2rem;
+   
+}
+.titles h4{
+    font-size: 2rem;
+    font-weight: 300;
+    margin-top: 2rem;
+}
+.inputs{
+    margin-top: 1rem;
+    margin-top: 2rem;
+}
+.input input button{
+    height: 20px;
+    width: 5px;
+}
+.signup_pic{
+    background-image: url('../../assets/signup.png');
+    background-size: cover;
+    height: 30rem;
+    width: 30rem;
+}
