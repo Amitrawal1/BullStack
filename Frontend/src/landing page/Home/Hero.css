@@ -1,11 +1,5 @@
-*{
-    margin: 0%;
-    padding: 0%;
-    box-sizing: border-box;
-    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
-}
-.Home{
-    
+
+.Hero{   
     width: 100%;
     height: 100%;
     background-color:#E6CCFF;
@@ -30,7 +24,7 @@
     font-weight: 200;
     color: #600985;
 }
-.front_pic{
+.hero_pic{
     background-image: url('../assets/Front.png');
     height: 35rem;
     width: 35rem;
