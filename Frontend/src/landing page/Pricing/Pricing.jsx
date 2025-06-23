@@ -1,8 +1,8 @@
-import './Pricing.css'
+
 export default function Pricing(){
     return(
         <>
-        <div className="pricing">
+        <div className="pricing flex">
             <div className="sections">
                 <h4>$</h4>
                 <h1>0</h1>
