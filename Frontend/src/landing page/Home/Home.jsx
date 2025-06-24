@@ -14,6 +14,7 @@ import './Home.css'
 export default function Home(){
     return(
         <>
+        <div >
             <Hero/>
             <SignUp/>
             <Pricing/>
@@ -22,6 +23,7 @@ export default function Home(){
             <About/>
             <Support/>
             <Review/>
+        </div>
         </>
     )
 }
