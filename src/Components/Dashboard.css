@@ -1,0 +1,14 @@
+.dashboard-container {
+  width: 100%;
+  height: 100%; /* Changed to 100% to better fit the flex parent */
+  display: flex;
+  box-sizing: border-box;
+}
+
+.content {
+  flex-basis: 68%; /* Takes up 68% of the width */
+  height: 100%;
+  box-sizing: border-box;
+  overflow-y: auto; /* Allows only this section to scroll */
+  padding: 25px;
+}

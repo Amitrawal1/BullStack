@@ -1,0 +1,24 @@
+
+.home-container {
+  
+  flex-direction: column; 
+  height: 100vh; 
+  
+}
+
+
+.main-content {
+  display: flex; 
+  flex-grow: 1; 
+  overflow: hidden; 
+}
+
+.Leftbar{
+  
+  height: 100%; 
+  width: 30%;
+}
+
+
+
+

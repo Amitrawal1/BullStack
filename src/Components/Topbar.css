@@ -1,0 +1,38 @@
+
+
+.indices-container {
+  height: 100%;
+  padding: 0 20px;
+  /* border-right: 1px solid #e0e0e0; -- This line was removed */
+  box-sizing: border-box;
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+  gap: 30px;
+}
+
+.nifty,
+.sensex {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+}
+
+.index {
+  font-size: 0.8rem;
+  font-weight: 500;
+  color: #333;
+  white-space: nowrap;
+}
+
+.index-points {
+  font-size: 0.8rem;
+  font-weight: 600;
+  color: #28a745;
+}
+
+.percent {
+  font-size: 0.8rem;
+  font-weight: 500;
+  color: #28a745;
+}
